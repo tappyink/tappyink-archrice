@@ -1,0 +1,19 @@
+here are all the apps i have installed
+
+system stuff
+- sway (and swayFX)
+- waybar
+- wofi
+- wlogout
+- kitty
+- thunar (themed by gtk3)
+- emacs 
+
+utilities
+- themix-gui (for gtk theming)
+
+regular apps
+- librewolf (browser)
+- discord 
+- prism launcher (and minecraft launcher for optifine)
+- grim (screenshot)
