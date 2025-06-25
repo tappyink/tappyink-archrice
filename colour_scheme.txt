@@ -1,0 +1,31 @@
+guide for ricing linux - main theme
+
+chocolate and rustic paper themed with a pastel landscape background, made in krita!
+
+font - maple mono
+
+main colours 
+#7b4b33
+#a86e51 
+#c98f5e
+#e7d8c5
+#f7e8d0
+   
+terminal colours based on "catppuccin"
+
+#8839ef
+#ca9ee6
+#e64553
+#e78284
+#fe640b
+#ef9f76
+#df8e1d
+#e5c890
+#40a02b
+#a6d189
+#04a5e5
+#99d1db
+#1e66f5
+#8caaee
+#7287fd
+#babbf1
