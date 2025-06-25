@@ -2,9 +2,9 @@
 
 ## some of these files in my config dont have code that i wrote sooooooooo
 
-dotfiles for my arch rice :D // based on white and milk chocolate, with inspiration from catppuccin for accent colours.
+dotfiles for my endeavour rice :D // based on white and milk chocolate, with inspiration from catppuccin for accent colours.
 
-### this arch linux rice was inspired by diinki's "retro future" rice! here is the link to it (link: https://github.com/diinki/diinki-retrofuture/tree/main)
+### this endeavourOS linux rice was inspired by diinki's "retro future" rice! here is the link to it (link: https://github.com/diinki/diinki-retrofuture/tree/main)
 ### some of those dotfiles are taken directly from her repo, so please do check it out!
 
 i put this repo here so that i can reinstall my computer with arch instead (due to a secure boot issue that i am a bit lazy to fix),  but when this is fully configured i will clean this readme file up!
