@@ -1,0 +1,12 @@
+Type=X-GNOME-Metatheme
+[Desktop Entry]
+Name=Gruvbox-Light-Soft
+Comment=A flat gtk+ theme based on Elegant Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Gruvbox-Light-Soft
+MetacityTheme=Gruvbox-Light-Soft
+IconTheme=Tela-circle
+CursorTheme=Gruvbox-cursors
+ButtonLayout=close,minimize,maximize:menu
