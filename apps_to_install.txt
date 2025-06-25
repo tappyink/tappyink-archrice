@@ -8,12 +8,20 @@ system stuff
 - kitty
 - thunar (themed by gtk3)
 - emacs 
+- dunst (i gotta customize it)
 
 utilities
 - themix-gui (for gtk theming)
+- glfw-wayland (for minecraft)
 
 regular apps
 - librewolf (browser)
 - discord 
 - prism launcher (and minecraft launcher for optifine)
 - grim (screenshot)
+
+apps that i havent insntalled but will do so in the future
+- krita
+- gimp
+- wine
+- yume 2kki (game)
