@@ -1,0 +1,138 @@
+* {
+  /*taskbar font :D*/
+  font-family: Maple Mono NF;
+  border-radius: 8;
+  font-size: 20px;
+  padding: 0px;
+  background: transparent;
+}
+
+window#waybar {
+  /* Linear gradients are used because it makes less harsh rounded border radius, gtk bug :p */
+  background-image: linear-gradient(to bottom, #e7d8c5 100%);
+  border-radius: 14px;
+  padding: 0px;
+  border-style: none;
+  border: 3px solid #7b4b33;
+}
+
+#battery,
+#network,
+#clock,
+#custom-applauncher,
+#tray,
+#workspaces,
+#pulseaudio,
+#custom-power {
+  background-image: linear-gradient(to bottom, #c98f5e 100%);
+
+  margin: 6px;
+  margin-right: 0px;
+  padding: 4px 6px;
+  border-radius: 8px;
+  color: #7b4b33;
+
+  border-style: none;
+  transition-duration: 120ms;
+}
+
+#clock {
+  margin-right: 6px;
+}
+
+#pulseaudio:hover {
+  background-image: linear-gradient(to bottom, #40a02b 100%);
+  color: #f7e8d0;
+  transition-duration: 120ms;
+}
+
+#custom-applauncher {
+  font-weight: bold;
+  transition-duration: 120ms;
+}
+#custom-applauncher:hover {
+  background-image: linear-gradient(to bottom, #7287fd 100%);
+  color: #f7e8d0;
+  transition-duration: 120ms;
+}
+
+#tray menu {
+  background-color: #7b4b33;
+  color: #d8cab8;
+  padding: 4px;
+}
+#tray menu menuitem {
+  background-image: linear-gradient(to bottom, #a86e51  100%);
+
+  margin: 3px;
+  color: #f7e8d0;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #27232b;
+}
+#tray menu menuitem:hover {
+  transition-duration: 150ms, 150ms;
+  background-image: linear-gradient(to bottom, #e7d8c5 100%);
+  color: #ca9ee6;
+  font-weight: bold;
+}
+
+#workspaces button {
+  /* Remove all: initial; */
+  transition: background 150ms ease-in-out, color 150ms ease-in-out, padding 150ms ease-in-out, border-radius 150ms ease-in-out, border-style 150ms ease-in-out;
+  min-width: 0;
+  font-weight: bold;
+  color: #7b4b33;
+  margin-right: 0.2cm;
+  margin-left: 0.2cm;
+  background: transparent; /* define initial background */
+  border-style: none;      /* define initial border style */
+  padding: 0;              /* define initial padding */
+  border-radius: 0;        /* define initial border radius */
+}
+
+#workspaces button:hover {
+  background: #8839ef;
+  border-radius: 4px;
+  border-style: solid;
+  padding: 0px 6px;
+  color: #df8e1d;
+}
+#workspaces button.focused {
+  color: #f7e8d0;
+  font-weight: bold;
+}
+#workspaces button.unfocused {
+  background-color: #7287fd;
+}
+#workspaces button.active {
+  color: #7287fd;
+  font-weight: bold;
+}
+#workspaces button.urgent {
+  color: #99d1db;
+}
+
+#battery {
+  background-color: #e7d8c5;
+  color: #7b4b33;
+}
+#battery.warning,
+#battery.critical,
+#battery.urgent {
+  color: #1d2021;
+  background-color: #fc4649;
+}
+
+#custom-power {
+  margin-right: 6px;
+  background-image: linear-gradient(to bottom, #7b4b33  100%);
+  color: #e78284;
+  transition-duration: 120ms;
+}
+
+#custom-power:hover {
+  background-image: linear-gradient(to bottom, #e64553 100%);
+  color: #babbf1;
+  transition-duration: 150ms;
+}
