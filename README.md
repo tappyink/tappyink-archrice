@@ -1,4 +1,7 @@
 # tappyink-archrice
+
+## some of these files in my config dont have code that i wrote sooooooooo
+
 dotfiles for my arch rice :D // based on white and milk chocolate, with inspiration from catppuccin for accent colours.
 
 ### this arch linux rice was inspired by diinki's "retro future" rice! here is the link to it (link: https://github.com/diinki/diinki-retrofuture/tree/main)
