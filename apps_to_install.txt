@@ -1,7 +1,7 @@
 here are all the apps i have installed
 
 system stuff
-- sway (and swayFX)
+- sway (and swayfx; *swayfx is installed with yay*)
 - waybar
 - wofi
 - wlogout
@@ -15,7 +15,7 @@ utilities
 - glfw-wayland (for minecraft)
 
 regular apps
-- librewolf (browser)
+- librewolf (browser, *librewolf is installed with yay*)
 - discord 
 - prism launcher (and minecraft launcher for optifine)
 - grim (screenshot)
@@ -26,3 +26,7 @@ apps that i havent insntalled but will do so in the future
 - wine
 - spotify
 - yume 2kki (game)
+
+- eww (ive never used it but it sounds interesting and fun to mess with :D)
+
+how to install: use "sudo pacman -S" before writing the name of the program listed. happy ricing :D
