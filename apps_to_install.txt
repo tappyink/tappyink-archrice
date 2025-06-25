@@ -24,4 +24,5 @@ apps that i havent insntalled but will do so in the future
 - krita
 - gimp
 - wine
+- spotify
 - yume 2kki (game)
