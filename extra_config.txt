@@ -1,2 +1,4 @@
 cursor theme - ModernXP
 gtk theme - gruvbox-light
+
+install these from pling
